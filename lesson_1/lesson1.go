@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"log"
+)
 
 func main() {
-	fmt.Println("First file", "sfs")
+	log.Printf("%d %d", 1, 2, 3)
 }
