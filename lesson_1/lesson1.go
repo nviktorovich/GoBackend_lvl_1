@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	log.Printf("%d %d", 1, 2, 3)
+	log.Printf("%d %d", 1, 2)
 }
